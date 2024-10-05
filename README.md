@@ -1,2 +1,6 @@
 ﻿# MetaHackerCup2023
-<img src="https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto" alt="alternative-text">
+# My Project Title
+
+Here’s an image related to my project:
+
+![A description of the image](https://drive.google.com/uc?export=view&id=1BtTgEwPKTjBiFfgShnTkTOwtDkNuv6Xt)
