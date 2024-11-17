@@ -1,6 +1,12 @@
 ﻿# MetaHackerCup2023
-# My Project Title
 
-Here’s an image related to my project:
+---
+## Both Rounds Certificates
 
-![A description of the image](https://drive.google.com/uc?export=view&id=1BtTgEwPKTjBiFfgShnTkTOwtDkNuv6Xt)
+- Here’s an Certificate of Practice Round:
+
+![A description of the image](PracticeRound.jpg)  
+
+---
+# Round 1 Certificate:
+![A description of the image](Round_1_Certificate.png)  
